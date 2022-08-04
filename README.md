@@ -8,4 +8,4 @@ This is a demo app that fetches list of Popular movies from the [The Movie DB](h
 * Uses Gson for json parsing.
 * Follows MVVM(Model-View-ViewModel) archietecture.
 
-<img src="screenshot_movieDB.jpeg"  width="120" height="120">
+<img src="screenshot_movieDB.jpeg"  width="1200" height="120">
