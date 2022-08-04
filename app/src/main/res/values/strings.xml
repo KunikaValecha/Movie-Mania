@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieDBoffline</string>
+    <string name="please_check_your_internet_connection">Please check your internet connection</string>
+    <string name="something_went_wrong">Something went wrong</string>
+</resources>
