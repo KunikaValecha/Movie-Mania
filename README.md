@@ -7,3 +7,5 @@ This is a demo app that fetches list of Popular movies from the [The Movie DB](h
 * Uses romm for caching.
 * Uses Gson for json parsing.
 * Follows MVVM(Model-View-ViewModel) archietecture.
+
+![Screenshot](screenshot_movieDB.png)
